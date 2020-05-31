@@ -8,6 +8,8 @@ Please dont use this site to hack someone's Facebook, I have created this script
 2. Download the files.
 3. Upload the files to your local XAMPP server.
 4. Open the index.php in your browser.
+5. Type something to the inputs
+6. Now open your log.txt
 
 
 <h2>FAQ</h2>
