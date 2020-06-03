@@ -9,7 +9,7 @@ Please dont use this site to hack someone's Facebook, I have created this script
 3. Upload the files to your local XAMPP server
 4. Open the index.php in your browser
 5. Type something to the inputs
-6. Now open your log.txt
+6. Now open your log.txt and visitors.log
 
 
 <h2>FAQ</h2>
